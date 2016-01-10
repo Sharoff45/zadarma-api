@@ -1,0 +1,25 @@
+{
+    "name": "sharoff/zadarma-api",
+    "type": "library",
+    "description": "Библиотека для работы с API zadarma.com",
+    "keywords": [
+        "php",
+        "zadarma",
+        "api"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Сергей Кокшаров",
+            "email": "info@sharoff.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sharoff\\Zadarma\\": "src/Section/"
+        }
+    }
+}
