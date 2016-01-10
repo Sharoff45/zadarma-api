@@ -1,6 +1,6 @@
 #Класс для работы с ZADARMA.COM API
 
-##Уставнока
+##Установка
 ~~~
 composer require sharoff/zadarma-api
 ~~~
